@@ -9,9 +9,10 @@ Each video is stored under a date folder (`YYYY-MM-DD/`) with a companion `.md` 
 | Video | Size | Metadata | Raw | jsDelivr CDN |
 |-------|------|----------|-----|--------------|
 | [172500-cat-meat-shop.mp4](./2026-05-11/172500-cat-meat-shop.mp4) | 1.41 MB | [md](./2026-05-11/172500-cat-meat-shop.md) | [open](https://github.com/kaidi915/AIvideo/raw/main/2026-05-11/172500-cat-meat-shop.mp4) | [open](https://cdn.jsdelivr.net/gh/kaidi915/AIvideo@main/2026-05-11/172500-cat-meat-shop.mp4) |
+| [190544-mouse-rat-chef-v1.mp4](./2026-05-11/190544-mouse-rat-chef-v1.mp4) | 5.38 MB | [md](./2026-05-11/190544-mouse-rat-chef-v1.md) | [open](https://github.com/kaidi915/AIvideo/raw/main/2026-05-11/190544-mouse-rat-chef-v1.mp4) | [open](https://cdn.jsdelivr.net/gh/kaidi915/AIvideo@main/2026-05-11/190544-mouse-rat-chef-v1.mp4) |
 
 ---
 
-**Total: 1 videos across 1 day(s)**.
+**Total: 2 videos across 1 day(s)**.
 
 > README auto-generated. Do not edit by hand — run `update_readme.py` after uploading new content.
